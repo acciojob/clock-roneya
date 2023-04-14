@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const t = document.getElementById("t");
+const t = document.getElementById("timer");
 
 setInterval(() => {
   const now = new Date();
